@@ -13,7 +13,6 @@
 
 - 🚘 Manage Car Records
 - 👤 Manage Customer Records
-- 📄 Handle Rentals & Returns
 - 🔐 Simple Login System
 - 📊 Clean, responsive GUI with a loading screen
 - 🧠 OOP-based logic (no database required)
@@ -35,11 +34,10 @@
 ## 📖 Usage Instructions
   
 - Start the system and wait for the loading screen to complete.
-- Log in using a predefined user..
+- Log in using a predefined user.
 > Navigate through:
 - Cars – Add/edit/delete car records
 - Customers – Manage customer profiles
-- Rentals – Rent or return a car
 - View results in DataGridViews dynamically updated from Lists.
 
 ## 📌 Notes
