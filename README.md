@@ -18,15 +18,15 @@
 - 📊 Clean, responsive GUI with a loading screen
 - 🧠 OOP-based logic (no database required)
 
-## 🖥️ UI Snapshot 
+## 🖥️ UI Snapshots
 
-<div display="flex">
+<div display="flex" align="center">
  <img width="250px" src="Images/img-1.png"/>
- <img width="250px" src="Images/Img-2.png"/>
+ <img width="250px" src="Images/img-2.png"/>
  <img width="250px" src="Images/img-3.png"/>
 </div>>
 
-<div display="flex">
+<div display="flex" align="center">
  <img width="250px" src="Images/img-4.png"/>
  <img width="250px" src="Images/Img-5.png"/>
  <img width="250px" src="Images/img-6.png"/>
